@@ -8,7 +8,7 @@
 	<name>UserModule Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring-version>4.3.3.RELEASE</spring-version>
+		<spring-version>5.2.20.RELEASE</spring-version>
 		<spring-security-version>4.1.4.RELEASE</spring-security-version>
 		<servlet-version>3.1.0</servlet-version>
 		<spring-webflow-version>2.4.4.RELEASE</spring-webflow-version>
